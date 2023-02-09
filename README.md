@@ -4,11 +4,7 @@ Welcome to my GitHub profile! My name is Freddie and I'm currently an Engineer *
 
 <a href="https://www.linkedin.com/in/frederickvargus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.twitter.com/freddie_v4"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-## Background
-My background is in building dev tools and systems for Data Science and Machine Learning, and I've worked in Quant Finance, AgTech, and E-Commerce, with focuses on Forecasting, Reinforcement Learning, and NLP systems. 
-
-## Interests
-These days, I'm looking to learn more about Coral Ecology (and also love to casually and competitively play Pokemon)
+My background is in building dev tools and systems for Data Science and Machine Learning. These days, I'm looking to learn more about Coral Ecology
 
 ![a group of corsola](https://i.kym-cdn.com/photos/images/original/001/199/938/1bb.gif)
 
