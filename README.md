@@ -12,9 +12,6 @@ These days, I'm looking to learn more about Coral Ecology (and also love to casu
 
 ![a group of corsola](https://i.kym-cdn.com/photos/images/original/001/199/938/1bb.gif)
 
-I enjoy using mechanical keyboards, and have been using a [Filco Majestouch 2](https://www.diatec.co.jp/en/det.php?prod_c=763) with Cherry MX Brown switches for the last 6 years as my daily driver (now with GMK Coral).
+I enjoy using mechanical keyboards, and recently built a southpaw [Lyra](https://github.com/PiKeeb/lyra-keyboard)
 
-<img src="https://user-images.githubusercontent.com/8339018/186967582-10e98f04-ebb8-491e-ae4f-35fadbd0463c.jpg" width="540">
-
-
-I'm now building a southpaw [ReLyra](https://github.com/PiKeeb/lyra-keyboard), named after the original Lyra keyboard which had a very interesting [controversy](https://geekhack.org/index.php?topic=104916.msg3086583#msg3086583) that occurred. The `ReLyra` will be my new daily driver so I can retire my Filco (switches TBD!)
+<img src="https://lh3.googleusercontent.com/pw/AMWts8DuGra-j3yHOXbOUH4VZ_HZfrTQdz5-12ZAWuodHQ7AB8DzfjYOWDUKgxHNjjEw3zpaSBhpDl7QtwPCYvApJD_vue3PjquMQgYFiYSMngotCtBrHAVW2iZzv6X5EvCCnEo3RMGMD4zNWvbyw1lt5mz_pg=w1040-h1314-s-no?authuser=0" width="400" height="600" />
