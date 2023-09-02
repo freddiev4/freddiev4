@@ -1,6 +1,6 @@
 ## :sparkles: Hello! :sparkles:
 
-Welcome to my GitHub profile! My name is Freddie and I'm currently an Engineer at GitHub working on Copilot ⌨️.
+Welcome to my GitHub profile! I'm working on a new project. Follow on Twitter.
 
 I build systems and dev tools for Machine Learning.
 
