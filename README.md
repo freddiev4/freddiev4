@@ -1,6 +1,6 @@
 ## :sparkles: Hello! :sparkles:
 
-Welcome to my GitHub profile! I'm working on a new project. Follow on Twitter.
+Welcome to my GitHub profile! I'm working on a new project. Follow on Twitter for updates.
 
 I build systems and dev tools for Machine Learning.
 
