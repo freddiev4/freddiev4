@@ -1,9 +1,7 @@
 ## :sparkles: Hello! :sparkles:
+<a href="https://x.com/freddiev4"><img src="https://img.shields.io/twitter/follow/freddiev4"/></a>
 
-Welcome to my GitHub profile! I'm working on a new project. Follow on [X / Twitter](https://x.com/freddie_v4) for updates.
+Welcome to my GitHub profile! I'm working on a new project. Follow on `X` for updates.
 
 I build systems and dev tools for Machine Learning.
-
-
-<a href="https://img.shields.io/twitter/follow/freddiev4"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
