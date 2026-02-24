@@ -1,9 +1,13 @@
 ## :sparkles: Hello! :sparkles:
 <a href="https://x.com/freddiev4"><img src="https://img.shields.io/twitter/follow/freddiev4"/></a>
 
-Welcome to my GitHub profile! I'm working on a new project. Follow on `X` for updates.
+I build systems and dev tools for Machine Learning -- previously I worked at GitHub on GitHub Copilot building evals & infra for tab completion and Chat, and did open research with Cohere Labs on Aya.
 
-I build systems and dev tools for Machine Learning.
+Follow me on `X` for updates.
+
+## Past Work
+- [Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model](https://arxiv.org/abs/2402.07827)
+- [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/abs/2402.06619)
 
 ## Current Projects
 
