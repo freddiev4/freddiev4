@@ -9,4 +9,4 @@ I build systems and dev tools for Machine Learning.
 
 - [rune](https://github.com/freddiev4/rune) — a coding agent for data engineering, search, and analytics over my personal data
 - [aqueduct](https://github.com/freddiev4/aqueduct) — agent-owned DAG-based data pipelines to NAS & S3
-- [yts3](https://github.com/freddiev4/rune) - rust library for encoding arbitrary files into lossless video, using YouTube as S3 storage
+- [yts3](https://github.com/freddiev4/yts3) - rust library for encoding arbitrary files into lossless video, using YouTube as S3 storage
