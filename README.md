@@ -7,6 +7,6 @@ I build systems and dev tools for Machine Learning.
 
 ## Current Projects
 
-- [rune](https://github.com/freddiev4/rune) — a data agent for data engineering, search, and analytics
+- [rune](https://github.com/freddiev4/rune) — a coding agent for data engineering, search, and analytics over my personal data
 - [aqueduct](https://github.com/freddiev4/aqueduct) — agent-owned DAG-based data pipelines to NAS & S3
 
