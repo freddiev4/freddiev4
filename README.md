@@ -5,9 +5,11 @@ I build systems and dev tools for Machine Learning -- previously I worked at Git
 
 Follow me on `X` for updates.
 
-## Past Work
-- [Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model](https://arxiv.org/abs/2402.07827)
-- [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/abs/2402.06619)
+## Past Research
+- Nature 2026, [Humanity's Last Exam](https://arxiv.org/abs/2501.14249)
+- ACL 2024, Best Paper Award, [Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model](https://arxiv.org/abs/2402.07827)
+- ACL 2024, [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/abs/2402.06619)
+- CSCW 2017, [Crowd Guilds: Worker-led Reputation and Feedback on Crowdsourcing Platforms](https://arxiv.org/abs/1611.01572)
 
 ## Current Projects
 
