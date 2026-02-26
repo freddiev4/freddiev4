@@ -1,7 +1,7 @@
 ## :sparkles: Hello! :sparkles:
 <a href="https://x.com/freddiev4"><img src="https://img.shields.io/twitter/follow/freddiev4"/></a>
 
-I build systems and dev tools for Machine Learning -- previously I worked at GitHub on GitHub Copilot building evals & infra for tab completion and Chat, and did open research with Cohere Labs on Aya.
+I build systems and tools for Machine Learning -- previously I worked at GitHub on GitHub Copilot building evals & infra for tab completion and Chat, and did open research with Cohere Labs on Aya.
 
 Follow me on `X` for updates.
 
